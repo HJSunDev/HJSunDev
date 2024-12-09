@@ -23,10 +23,10 @@ I'm a Front-End Developer, currently focusing on AI-enhanced web development.
 ![](https://img.shields.io/badge/Jest-Tool-informational?style=flat&logo=jest&logoColor=C21325&labelColor=606060&color=68A063)
 ![](https://img.shields.io/badge/LangChain-Tool-informational?style=flat&logo=chainlink&logoColor=2C3E50&labelColor=606060&color=68A063)
 
-
+<!---
 ## 📊 Statistics
 ![GitHub stats (Tokyo Night)](https://github-readme-stats.vercel.app/api?username=HJSunDev&show_icons=false&theme=tokyonight)
-
+--->
 
 
 
