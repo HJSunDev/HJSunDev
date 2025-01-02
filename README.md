@@ -1,4 +1,4 @@
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&weight=600&size=28&duration=3000&pause=1000&color=000000&width=435&lines=Welcome+to+my+GitHub+profile!)
 # 👋 Hi, I'm Huajiang
 
 I'm a Front-End Developer, currently focusing on AI-enhanced web development. 
