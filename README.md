@@ -22,8 +22,10 @@ I'm a Front-End Developer, currently focusing on AI-enhanced web development.
 ![](https://img.shields.io/badge/Vite-Tool-informational?style=flat&logo=vite&logoColor=646CFF&labelColor=606060&color=68A063)
 ![](https://img.shields.io/badge/Jest-Tool-informational?style=flat&logo=jest&logoColor=C21325&labelColor=606060&color=68A063)
 ![](https://img.shields.io/badge/LangChain-Tool-informational?style=flat&logo=chainlink&logoColor=2C3E50&labelColor=606060&color=68A063)
+<!---
 #
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&weight=600&size=28&duration=3000&pause=1000&color=000000&width=435&lines=Welcome+to+my+GitHub+profile!)
+--->
 
 <!---
 ## 📊 Statistics
