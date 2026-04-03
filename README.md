@@ -2,8 +2,6 @@
 
 I am a Full-Stack AI Application Engineer rooted in Front-End development. Dedicated to unleashing advanced AI capabilities into real-world scenarios, building practical products that augment and liberate human productivity.
 
-<br>
-
 <p align="center">
   <!-- 第一行：4个语言徽章 (基础语言，高度 23) -->
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="23" />
